@@ -1,5 +1,5 @@
 if game.PlaceId == 6284583030 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua")()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/machadekdee/autoexc/main/autofatez"))()
 end
 if game.PlaceId == 1554960397 then
       local vu = game:GetService("VirtualUser")
