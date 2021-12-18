@@ -1,6 +1,9 @@
 if game.PlaceId == 6284583030 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/machadekdee/autoexc/main/autofatez"))()
 end
+if game.PlaceId == 6284583030 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/si1nnx/psxx/main/g"))()
+end
 if game.PlaceId == 1554960397 then
       local vu = game:GetService("VirtualUser")
     game:GetService("Players").LocalPlayer.Idled:connect(function()
